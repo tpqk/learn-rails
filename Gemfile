@@ -28,6 +28,8 @@ gem 'high_voltage'
 gem 'simple_form'
 gem 'zurb-foundation'
 
+gem 'susy', '~> 2.2.2'
+
 group :development do
   gem 'better_errors'
   gem 'quiet_assets'
